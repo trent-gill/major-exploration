@@ -22,4 +22,16 @@ Tips for using this website:
 
 ## Advising Dictionary
 
-Faculty - 
+*Faculty or School* - Academic departments and subject areas are housed within a broader unit that offers a university degree. Examples include: Faculty of Arts, Faculty of Science, Faculty of Education, School of Music, and Faculty of Health Studies.
+
+*Degree* - The credential awarded to students who complete an academic program. The name of the degree is sometimes related to the subject area (for example, Bachelor of Business Administration or Bachelor of Nursing) and sometimes related to the faculty (for example, Bachelor of Arts or Bachelor of Science). Other examples include: Bachelor of Music, Bachelor of Environmental Science, and Bachelor of Physical Education Studies. 3-year degree programs require a minimum of 90 cr/hrs (30 courses), and 4-year degree programs require a minimum of 120 cr/hrs (40 courses).
+
+*Major* - The area of study (or subject area) in which a student completes the majority of their coursework. Some majors are pre-assigned based on more specific degrees (like Nursing or Environmental Science), but most majors are chosen within a Bachelor of Arts or a Bachelor of Science. Majors require at least 48 cr/hrs (16 courses). Majors are required in all degree programs.
+
+*Minor* - An area of study (or subject area) in which a student completes fewer courses. A "secondary" area of study that complements the major. Minors require a minimum of 18 cr/hrs (6 courses). Minors are required for most degrees in the Faculties of Arts and Science, but not all. Some exceptions include the Bachelor of Business Administration, Bachelor of Science (Hons.) in Geology, Bachelor of Environmental Science, Bachelor of Arts in Liberal Arts.
+
+*Ancillary courses* - Required courses from other departments or subject areas to complete a major or a minor. For example, a Computer Science, Physics, or Chemistry major requires Math courses; a Business Administration major requires Economics; a Biology major requires Chemistry. Ancillary courses to meet major requirements can also be used towards a minor in that subject area.
+
+## Parts of a degree
+
+![Parts of a Degree](http://trentgill.ca/bu-advising-course/user/pages/02.parts-of-a-degree/Parts-of-a-Degree.png)
